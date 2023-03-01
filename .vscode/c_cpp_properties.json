@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "cStandard": "c99"
+            "cStandard": "c17",
+            "intelliSenseMode": "${default}"
         }
     ],
     "version": 4
